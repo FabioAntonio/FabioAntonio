@@ -24,4 +24,10 @@
   <a href="https://fabiojr61998.wixsite.com/my-site-2" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" target="_blank"></a>
 </div>
 
- ![Snake animation](https://github.com/FabioAntonio/blob/output/github-contribuition-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/FabioAntonio/snk)_
