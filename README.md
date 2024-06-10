@@ -35,6 +35,7 @@
  <img align="center" alt="Fabio-Sciktlearn" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
  <img align="center" alt="Fabio-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
  <img align="center" alt="Fabio-Keras" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+ <img align="center" alt="Fabio-BioPython" height="50" width="70" src="https://cdn.discordapp.com/attachments/1038643173100105789/1249559701415395401/Biopython_logo.png?ex=6667bea8&is=66666d28&hm=a3a639e12c08b847b52a3addebdca8552c1ee409fd18e755012513334d1bfb90&" />
  
 </div>
 
