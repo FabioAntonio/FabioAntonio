@@ -1,18 +1,26 @@
-<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/8232c54b-bf93-49b5-b492-8b897f546f6f"/>
+<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/2cf9e650-7eb3-4cae-afc3-9a3bb7166132"/>
 <br>
 <br>
 <br>
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=008A02&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Fabio;I'm+25+years+old;I'm+Bioinformatician;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=265CAA&random=false&width=435&lines=Hi+there%2C+I'm+Fabio;I'm+25+years+old;I'm+Bioinformatician;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FabioAntonio&theme=calm&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=800)](https://git.io/streak-stats)
 
 </div>
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/FabioAntonio?chart=3dbar&gap=0.5&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=blue&dark=true) 
+
+</div>
+
 
 - 🔭 I’m currently working on Bioinformatcs projects
 - 🌱 I’m currently learning genome assembly and analysis 
