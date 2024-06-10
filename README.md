@@ -1,5 +1,18 @@
-<img width=75% bottom=50px src="https://cdn.discordapp.com/attachments/1038643173100105789/1249525064404041758/github-header-image.png?ex=66679e66&is=66664ce6&hm=fee7b1311cd54dbf44e2c0447bfca9944322f2d5f9919589ce016f7bdca22c71&"/>
+<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/8232c54b-bf93-49b5-b492-8b897f546f6f"/>
+<br>
+<br>
+<br>
+<br>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=008A02&center=true&random=false&width=435&lines=Hi+there%2C+I'm+Fabio;I'm+25+years+old;I'm+Bioinformatician;I'm+from+Brazil;Welcome)](https://git.io/typing-svg)
+
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
 
 - 🔭 I’m currently working on Bioinformatcs projects
 - 🌱 I’m currently learning genome assembly and analysis 
