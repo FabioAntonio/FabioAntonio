@@ -15,9 +15,9 @@
 </div>
 
 
-<div align="center" >
+<div align="center">
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/FabioAntonio?chart=3dbar&gap=0.5&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&weeks=30&theme=blue&dark=true) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/FabioAntonio?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue&dark=true) 
 
 </div>
 
@@ -44,7 +44,13 @@
   <a href="https://www.linkedin.com/in/fábio-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://fabiojr61998.wixsite.com/my-site-2" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" target="_blank"></a>
 
+##
 
+<p align="center"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=github.com%2FFabioAntonio&s=50&c=265caa&bg=00000000&no=3&ff=digi&tb=Visitantes%3A+&ta=" alt="visits"/></p>
 
-<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/6269df53-0cb3-4c81-b028-28e929bf4f7c"/>
+##
+
+<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/855a2232-394a-43e9-b6fc-be7415b2df65"/>
 </div>
