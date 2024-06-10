@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/2cf9e650-7eb3-4cae-afc3-9a3bb7166132"/>
+<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/6269df53-0cb3-4c81-b028-28e929bf4f7c"/>
 <br>
 <br>
 <br>
@@ -43,4 +43,8 @@
 <a href="https://instagram.com/fabioam.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/fábio-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://fabiojr61998.wixsite.com/my-site-2" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" target="_blank"></a>
+
+
+
+<img width=100% bottom=50px src="https://github.com/FabioAntonio/FabioAntonio/assets/36416999/6269df53-0cb3-4c81-b028-28e929bf4f7c"/>
 </div>
